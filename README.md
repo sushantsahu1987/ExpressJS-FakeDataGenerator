@@ -5,8 +5,8 @@ An Express-Js based application that uses faker.js to generate large amounts of 
 API's available:
 
 Fake profile generator:
-http://localhost:3000/people/{count} 
-http://localhost:3000/people
+- http://localhost:3000/people/{count} 
+- http://localhost:3000/people
 
 More to come ...
 
