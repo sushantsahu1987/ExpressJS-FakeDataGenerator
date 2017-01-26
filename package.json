@@ -1,0 +1,22 @@
+{
+  "name": "myexpress-faker",
+  "version": "1.0.0",
+  "description": "An express application that generates fake profiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "faker",
+    "lodash"
+  ],
+  "author": "ssahu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "faker": "^3.1.0",
+    "lodash": "^4.13.1",
+    "mysql": "^2.10.2"
+  }
+}
